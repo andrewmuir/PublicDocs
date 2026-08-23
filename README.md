@@ -1,6 +1,6 @@
-# AI Vibecode Public Docs
+# Ai Vibecode Public Docs
 
-Static public documentation site for AI Vibecode apps and games.
+Static public documentation site for Ai Vibecode apps and games.
 
 The site is designed to scale from one product to many without changing the basic structure.
 
@@ -8,7 +8,7 @@ The site is designed to scale from one product to many without changing the basi
 
 ```text
 /
-├── index.html                         # AI Vibecode landing page
+├── index.html                         # Ai Vibecode landing page
 ├── styles.css                         # shared visual system
 ├── privacy-policy.html                # compatibility redirect
 └── apps/
